@@ -45,5 +45,13 @@
       <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
       <enclosure url="https://github.com/stoyanvelinov/precise-volume-releases/releases/download/v1.0.5/PreciseVolume-1.0.5.dmg" type="application/octet-stream" sparkle:edSignature="RMAqaH/Ll5ouUZv/ldQuir1gIz9lGRbwVqwFdUPxW3JM7OIMBNwaepUr3UzUGJp1NZ0QCKonrRUJvuHGqpn+AA==" length="6769110" />
     </item>
+    <item>
+      <title>Version 1.0.6</title>
+      <sparkle:version>1.0.6</sparkle:version>
+      <sparkle:shortVersionString>1.0.6</sparkle:shortVersionString>
+      <pubDate>Mon, 27 Apr 2026 19:06:56 +0000</pubDate>
+      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/stoyanvelinov/precise-volume-releases/releases/download/v1.0.6/PreciseVolume-1.0.6.dmg" type="application/octet-stream" sparkle:edSignature="TykTx8KHeG9Ro8/rrDVHNiBnS7IRMNzZoF0NHFaaC6e1KTyAonAGZ0ekhSYTFaYBSzSWNG8Jvd55P6SSVJNvBw==" length="6745211" />
+    </item>
   </channel>
 </rss>
